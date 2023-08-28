@@ -6,7 +6,5 @@
 <hr>
 
 [Piedpiper(v.2)](https://labunskiypetro.github.io/site-Piedpiper_v2) || [code](https://github.com/LabunskiyPetro/site-Piedpiper_v2) # redone after a while <br> 
-<hr>
-
 [Piedpiper(v.1)](https://labunskiypetro.github.io/site-Piedpiper_v1) || [code](https://github.com/LabunskiyPetro/site-Piedpiper_v1) || [maket](https://www.figma.com/file/BL7wdCOSIxYFu1uxctuVzg)  # my first site <br> 
 <hr>
