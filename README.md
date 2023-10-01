@@ -1,6 +1,6 @@
 # Portfolio
 ### This is my web development portfolio
-
+HTML {BEM}
 
 [RitmStyle](https://labunskiypetro.github.io/site-RitmStyle) || [code](https://github.com/LabunskiyPetro/site-RitmStyle) || [maket](https://www.figma.com/file/qcmKp98gPYVyHQRSvVUxrX/Templates-%2322.-More-on-d-e-n.info?type=design&node-id=0-1&mode=design&t=BuWDGxetVKsJk5qd-0) # Size 1736px, not adaptive
 <hr>
